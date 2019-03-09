@@ -26,7 +26,7 @@ I use Windows 10 as my operating system, but most apps are cross-platform.
 * [Gimp](https://www.gimp.org/)
   * Best image manipulation program.
 * [Joplin](https://joplin.cozic.net/)
-  * Best not taking and to-do application.
+  * Best note taking and to-do application.
 * [Krita](https://krita.org)
   * Best drawing application.
 * [Milton](https://github.com/serge-rgb/milton)
