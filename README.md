@@ -13,19 +13,15 @@ I use Windows 10 as my operating system, but most apps are cross-platform.
   * Coolest application in the world.
 * [CDisplay Ex](http://www.cdisplayex.com/)
   * Best CBR reader.
-* [Dexpot](https://dexpot.de/)
-  * Best way to have more monitors.
 * [Discord](https://discordapp.com/)
   * Best chat application.
 * [EarTrumpet](https://www.microsoft.com/en-us/p/eartrumpet/9nblggh516xp)
   * Best way to manage audio.
 * [Everything](https://www.voidtools.com/)
   * Best search.
-* [f.lux](https://justgetflux.com/)
-  * Best eye software.
 * [Gimp](https://www.gimp.org/)
   * Best image manipulation program.
-* [Joplin](https://joplin.cozic.net/)
+* [Joplin](https://joplinapp.org/)
   * Best note taking and to-do application.
 * [Krita](https://krita.org)
   * Best drawing application.
@@ -33,7 +29,7 @@ I use Windows 10 as my operating system, but most apps are cross-platform.
   * Best infinite canvas program.
 * [OBS Studio](https://obsproject.com/)
   * Best streaming application.
-* [Opera](https://www.opera.com/)
+* [Firefox](https://www.firefox.com)
   * Best browser.
 * [ShareX](https://getsharex.com/)
   * Best way to create high quality recordings and gifs. (If you change the default settings.)
@@ -51,3 +47,7 @@ I use Windows 10 as my operating system, but most apps are cross-platform.
   * Best text editor.
 * [VMPK](http://vmpk.sourceforge.net/)
   * Best virtual piano keyboard.
+* [Windhawk](https://windhawk.net/)
+  * Make Windows 11 better.
+* [Win11Debloat](https://github.com/Raphire/Win11Debloat)
+  * Make Windows 11 not suck.
